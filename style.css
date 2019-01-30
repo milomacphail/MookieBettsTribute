@@ -1,0 +1,44 @@
+#banner {
+  margin: auto;
+  background-color: #0C2340;
+  text-align: center;
+  font-family: 'playball', cursive; 
+  color: white;
+}
+
+#img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 1em;
+  padding-top: 1em;
+}
+
+#img-div {
+  background-color:#BD3039;
+  margin-bottom: 3em;
+  padding-bottom: 1em;
+}
+
+#img-caption {
+  font-size: 15px;
+  margin: 0 auto 0 auto;
+  font-family: sans-serif;
+  text-align: center;
+  color: #fffdd0;
+}
+
+#tribute-wrap {
+  text-align: left;
+  margin: 4em;
+  padding-left: 2.5em;
+  padding-right: 2.5em;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: white;
+}
+
+#background {
+  background-image: url("https://cbsboston.files.wordpress.com/2018/07/fenway-at-night.jpg?w=1024"); 
+}
